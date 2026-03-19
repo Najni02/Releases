@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://releases-jan.netlify.app/Moodle Downloader (Package).appinstaller/Moodle Downloader (Package).appinstaller"
+	Uri="https://releases-jan.netlify.app/Moodle Downloader (Package).appinstaller"
 	Version="1.2.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="8b409d9b-2ed8-4d22-9bdc-e37991095231"
 		Version="1.2.1.0"
 		Publisher="CN=Jan Amrhein"
-		Uri="https://releases-jan.netlify.app/Moodle Downloader (Package).appinstaller/Moodle Downloader (Package)_1.2.1.0_Test/Moodle Downloader (Package)_1.2.1.0_x86_x64.msixbundle" />
+		Uri="https://github.com/Najni02/Releases/releases/download/moodle-downloader_v1.2.1/Moodle.Downloader.Package._1.2.1.0_x86_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
